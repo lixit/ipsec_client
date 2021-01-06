@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="58px" viewBox="0 0 124 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icon_china</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-1" transform="translate(-551.000000, -183.000000)">
+            <rect id="bg" fill="#FFFFFF" x="0" y="0" width="750" height="1334"></rect>
+            <g id="编组-3" transform="translate(551.000000, 183.000000)">
+                <g id="icon_china" transform="translate(1.000000, 0.000000)">
+                    <g>
+                        <path d="M67.656341,0 L121,0 C122.104569,-2.02906125e-16 123,0.8954305 123,2 L123,56 C123,57.1045695 122.104569,58 121,58 L57.4149617,58 C56.3103922,58 55.4149617,57.1045695 55.4149617,56 C55.4149617,55.8749557 55.4266887,55.750187 55.4499886,55.6273327 L65.6913679,1.6273327 C65.8704089,0.683298467 66.6954787,-2.67581675e-16 67.656341,0 Z" id="矩形" fill="#3678C8"></path>
+                        <path d="M12.9212359,4 L68,4 C69.1045695,4 70,4.8954305 70,6 L70,52 C70,53.1045695 69.1045695,54 68,54 L2.50358881,54 C1.39901931,54 0.503588808,53.1045695 0.503588808,52 C0.503588808,51.8513706 0.520156682,51.7032043 0.552985526,51.5582457 L10.9706326,5.55824573 C11.1770133,4.64695446 11.9868672,4 12.9212359,4 Z" id="矩形备份" stroke="#3678C8" transform="translate(35.000000, 29.000000) scale(-1, -1) translate(-35.000000, -29.000000) "></path>
+                    </g>
+                    <text id="中" font-family="PingFangSC-Medium, PingFang SC" font-size="32" font-weight="400" fill="#FFFFFF">
+                        <tspan x="77" y="41">中</tspan>
+                    </text>
+                    <text id="EN" font-family="PingFangSC-Regular, PingFang SC" font-size="32" font-weight="normal" fill="#3678C8">
+                        <tspan x="6.304" y="40">EN</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

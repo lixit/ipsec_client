@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/router.svg</file>
+        <file>images/icon_signl_no.svg</file>
+        <file>images/icon_signl_one.svg</file>
+        <file>images/icon_signl_three.svg</file>
+        <file>images/icon_signl_two.svg</file>
+        <file>images/lang_chinese.svg</file>
+        <file>images/lang_english.svg</file>
+        <file>images/chinese.svg</file>
+        <file>images/english.svg</file>
+        <file>images/router.png</file>
+        <file>images/router@2x.png</file>
+        <file>images/router_xxx.png</file>
+        <file>images/iLinkAll.png</file>
+        <file>images/icon_delete.png</file>
+        <file>images/icon_eyeOff.png</file>
+        <file>images/icon_eyeOn.png</file>
+        <file>images/pic_top_left.svg</file>
+        <file>images/pic_top_bg.svg</file>
+        <file>images/pic_top_bg.png</file>
+        <file>images/icon_signout.svg</file>
+        <file>images/en.png</file>
+        <file>images/zh.png</file>
+        <file>images/icon_signout.png</file>
+        <file>translations/qtbase_zh_CN.qm</file>
+        <file>translations/vpn_cpp_zh_CN.qm</file>
+    </qresource>
+</RCC>

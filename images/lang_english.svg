@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="58px" viewBox="0 0 124 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>icon_english</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录-2" transform="translate(-552.000000, -183.000000)">
+            <rect id="bg" fill="#FFFFFF" x="0" y="0" width="750" height="1334"></rect>
+            <g id="编组-3" transform="translate(552.000000, 183.000000)">
+                <g id="icon_english">
+                    <path d="M12.656341,0 L66,0 C67.1045695,-2.02906125e-16 68,0.8954305 68,2 L68,56 C68,57.1045695 67.1045695,58 66,58 L2.41496167,58 C1.31039218,58 0.414961675,57.1045695 0.414961675,56 C0.414961675,55.8749557 0.426688671,55.750187 0.449988626,55.6273327 L10.6913679,1.6273327 C10.8704089,0.683298467 11.6954787,-2.67581675e-16 12.656341,0 Z" id="矩形" fill="#3678C8" transform="translate(34.000000, 29.000000) scale(-1, 1) translate(-34.000000, -29.000000) "></path>
+                    <path d="M65.9212359,4 L121,4 C122.104569,4 123,4.8954305 123,6 L123,52 C123,53.1045695 122.104569,54 121,54 L55.5035888,54 C54.3990193,54 53.5035888,53.1045695 53.5035888,52 C53.5035888,51.8513706 53.5201567,51.7032043 53.5529855,51.5582457 L63.9706326,5.55824573 C64.1770133,4.64695446 64.9868672,4 65.9212359,4 Z" id="矩形备份" stroke="#3678C8" transform="translate(88.000000, 29.000000) scale(1, -1) translate(-88.000000, -29.000000) "></path>
+                    <g id="编组-2" transform="translate(8.000000, 6.000000)" font-size="32">
+                        <text id="EN" font-family="PingFangSC-Medium, PingFang SC" font-weight="400" fill="#FFFFFF">
+                            <tspan x="0.08" y="35">EN</tspan>
+                        </text>
+                        <text id="中" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal" fill="#3678C8">
+                            <tspan x="71" y="34">中</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
